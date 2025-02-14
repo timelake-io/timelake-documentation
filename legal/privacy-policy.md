@@ -48,14 +48,14 @@ This information may be used, without limitation, to analyze trends, administer 
 
 List of cookies used on our Application:
 
-\\
-
-| \_ga                  | 2 years              | Used to distinguish users.                                                                                                                                                                                                                                             |
+| Key                   | Duration             | Purpose.                                                                                                                                                                                                                                                               |
 | --------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \_ga                  | 2 years              | Used to distinguish users.                                                                                                                                                                                                                                             |
 | \_gid                 | 24 hours             | Used to distinguish users.                                                                                                                                                                                                                                             |
 | \_gat                 | 1 minute             | Used to throttle request rate. If Google Analytics is deployed via Google Tag Manager, this cookie will be named \_dc\_gtm\_\<property- id>.                                                                                                                           |
 | AMP\_TOKEN            | 30 seconds to 1 year | Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.                                                          |
 | \_gac\_\<property-id> | 90 days              | Contains campaign related information for the user. If you have linked your Google Analytics and Google Ads accounts, Google Ads website conversion tags will read this cookie unless you opt-out. [Learn more](https://support.google.com/google-ads/answer/7521212). |
+| \_ga\_\<container-id> | 2 years              | Used to persist session state.                                                                                                                                                                                                                                         |
 
 | \_gid                      | 24 hours | Used to distinguish users.                                                                                                                                                                                                                                |
 | -------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
