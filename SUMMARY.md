@@ -4,5 +4,5 @@
 
 ## Legal
 
-* [Terms and Conditions](legal/readme.md)
+* [Terms and Conditions](legal/terms-and-conditions.md)
 * [Privacy Policy](legal/privacy-policy.md)
