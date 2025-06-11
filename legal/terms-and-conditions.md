@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-1\. IMPORTANT CLAUSES. Nodes, UAB, a company established in Lithuania, legal entity code 302528298, registered address Antakalnio g. 17, LT-10312 Vilnius, Lithuania ("Company”) has developed an application **TimeLake** (“Application”) for individuals, freelancers and employees productivity analysis purposes.
+1\. IMPORTANT CLAUSES. Timelake, UAB, a company established in Lithuania, legal entity code 307191739, registered address Šv. Stepono g. 27B-2, LT-01315 Vilnius, Lithuania ("Company”) has developed an application **TimeLake** (“Application”) for individuals, freelancers and employees productivity analysis purposes.
 
 In order to explain how you should use this Application we have drafted these Terms and Conditions (“T\&C”). These T\&C govern your use of the Application, including, without limitation, the use of all content such as text, information, images, and audio, and the suite of services, integrated tools, programs, software, helpers and other related items that form part of the Application. Please read them carefully before using our Application, because these T\&C describe your rights and obligations in relation to the Application and constitute a legally binding agreement between you and Company.
 
