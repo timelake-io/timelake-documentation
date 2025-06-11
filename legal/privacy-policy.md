@@ -6,7 +6,7 @@ description: For The Use Of TimeLake Application
 
 ### 1. **DATA CONTROLLER.**
 
-Nodes, UAB, a company established in Lithuania, legal entity code 302528298, registered address Antakalnio g. 17, LT-10312 Vilnius, Lithuania ("Company”) has developed an application **TimeLake** (“Application”) for individuals, freelancers and employees productivity analysis purposes.
+Timelake, UAB, a company established in Lithuania, legal entity code 307191739, registered address Šv. Stepono g. 27B-2, LT-01315 Vilnius, Lithuania ("Company”) has developed an application **TimeLake** (“Application”) for individuals, freelancers and employees productivity analysis purposes.
 
 The Application is operated by Company acting as your data controller. We have prepared this Privacy policy to inform you about our use of your personal information. You should read this Privacy policy carefully, since it describes the types of information we collect, how we collect and use information, the circumstances in which we disclose or share information and how you can access, update or delete certain information we have collected about you.
 
