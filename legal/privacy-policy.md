@@ -113,8 +113,8 @@ As Company is an international corporation some of the personal data may be tran
 
 ### 10. DATA CONTROLLER’S REQUISITES
 
-Nodes, UAB
+Timelake, UAB
 
-Antakalnio g. 17, LT-10312 Vilnius, Lithuania
+Šv. Stepono g. 27B-2, LT-01315 Vilnius, Lithuania
 
 Phone No.: +370 (674) 63186
